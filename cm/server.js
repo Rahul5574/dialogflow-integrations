@@ -15,8 +15,8 @@
  */
 
 //Insert your values here
-const cmProductToken = 'YOUR_CM_PRODUCT_TOKEN';
-const projectId = 'YOUR_PROJECT_ID';
+const cmProductToken = 'a45eb5db1f47c41260f3f6e27d12fec7';
+const projectId = 'AC807fd0a17852445ac0302983d2ca7d8e';
 
 const express = require('express');
 const request = require('request');
